@@ -3,7 +3,6 @@
 ## About Me
 * An aspiring full-stack dev.
 * Other than tech related stuff, I have great interest in UI/UX design.
-* Currently in the process to study comp sci at monash uni malaysia. Wish me luck!
 
 ## Projects
 * [School Website](https://yusei07.github.io/regents-v2/) - A website made during my senior high cs final project.
